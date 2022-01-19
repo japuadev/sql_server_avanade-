@@ -9,7 +9,7 @@ Projetos em DB para a conclusão do Bootcamp da Avanade pela Digital Innovation 
  
 • <a href="#db_comercio">DB Comércio </a> 
 
-• <a href="EstrelaDaMorte>DB Estrela Da Morte (StarWars)</a> 
+• <a href="#EstrelaDaMorte>DB Estrela Da Morte (StarWars)</a> 
 
 
 <h3>✅ Status do projeto</h3>
